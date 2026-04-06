@@ -1,5 +1,10 @@
 package main;
 
+import core.ligatenis.LigaTenis;
+import core.person.Juez;
+import core.person.Jugador;
+import java.util.Set;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
