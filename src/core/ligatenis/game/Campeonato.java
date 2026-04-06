@@ -9,5 +9,8 @@ package core.ligatenis.game;
  * @author Gabriela Campo
  */
 public class Campeonato {
+
+    public Campeonato() {
+    }
     
 }
